@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Книга адресов за кадром</string>
+    <string name="et_first_name">Ввидите имя контакта</string>
+    <string name="et_last_name">Ввидите фамилию контакта</string>
+    <string name="et_address">Ввидите адрес контакта</string>
+    <string name="et_phone_number">Ввидите телефон контакта</string>
+    <string name="btn_submit">Добавить контакт</string>
+    <string name="toolbar_contact">Контакт:</string>
+    <string name="btn_back">Назад</string>
+    <string name="tv_first_name_header">Имя:</string>
+    <string name="tv_last_name_header">Фамилия:</string>
+    <string name="tv_address_header">Адрес:</string>
+    <string name="tv_phone_number_header">"Телефон:"</string>
+</resources>
